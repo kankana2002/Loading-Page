@@ -5,4 +5,4 @@ This project demonstrates how to create a simple loading image using HTML, CSS, 
 Follow these steps to use the loading image in your project:<br>
 1. <b>Clone Repository:</b><br>
 Clone this repository to your local machine using the following command:<br>
- <img src="ss1.PNG"  width="300" height="200"><BR>
+ <img src="ss1.PNG" ><BR>
