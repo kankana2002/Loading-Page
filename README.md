@@ -1,5 +1,5 @@
 # Loading-Image
-Creating a Loading Image with HTML, CSS, and JavaScript <br>
+<b>Creating a Loading Image with HTML, CSS, and JavaScript</b> <br>
 This project demonstrates how to create a simple loading image using HTML, CSS, and JavaScript. This loading image can be used to indicate to users that content is being loaded or processed in the background.<br>
 <b>Usage</b><br>
 Follow these steps to use the loading image in your project:<br>
@@ -25,4 +25,8 @@ Customize the appearance of the loading image by modifying the CSS in <i>style.c
 Adjust the behavior of the loading image by modifying the JavaScript in <i>script.js</i> file.<br>
 9.<b>Test: </b><br>
 Test the loading image in your project to ensure it works as expected.<br>
+<b>Contributors</b><br>
+👩‍🦰 KANKANA PANDIT<BR>
+<b>License</b><br>
+<b>This project is licensed under the MIT License - see the <a>LICENSE</a> file for details.</b>
 
