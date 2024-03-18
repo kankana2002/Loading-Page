@@ -28,5 +28,7 @@ Test the loading image in your project to ensure it works as expected.<br>
 <b>Contributors</b><br>
 👩‍🦰 KANKANA PANDIT<BR>
 <b>License</b><br>
-<b>This project is licensed under the MIT License - see the <a>LICENSE</a> file for details.</b>
+This project is licensed under the MIT License - see the LICENSE file for details.<br>
+<b>Support</b>
+For any questions or issues, please open an issue on GitHub.
 
